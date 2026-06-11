@@ -6,7 +6,7 @@ This project is built and maintained with contributions from volunteers, trainer
 
 | Name      | Role                             | Organization / Affiliation |
 | --------- | -------------------------------- | -------------------------- |
-| Akshara A | Developer                        | Properl Technology         |
+| Akshara A | Developer                        | Propel Technology         |
 | Akshara A | Volunteer, AI/ML and FSD Trainer | SURE Trust                 |
 
 ---
